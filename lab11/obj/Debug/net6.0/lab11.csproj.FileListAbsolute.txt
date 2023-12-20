@@ -1,0 +1,15 @@
+D:\Users\pawel.wrona\source\repos\lab11\lab11\bin\Debug\net6.0\lab11.exe
+D:\Users\pawel.wrona\source\repos\lab11\lab11\bin\Debug\net6.0\lab11.deps.json
+D:\Users\pawel.wrona\source\repos\lab11\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+D:\Users\pawel.wrona\source\repos\lab11\lab11\bin\Debug\net6.0\lab11.dll
+D:\Users\pawel.wrona\source\repos\lab11\lab11\bin\Debug\net6.0\lab11.pdb
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.dll
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\refint\lab11.dll
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.pdb
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+D:\Users\pawel.wrona\source\repos\lab11\lab11\obj\Debug\net6.0\ref\lab11.dll
