@@ -1,0 +1,15 @@
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\bin\Debug\net8.0\sem2lab10.exe
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\bin\Debug\net8.0\sem2lab10.deps.json
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\bin\Debug\net8.0\sem2lab10.runtimeconfig.json
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\bin\Debug\net8.0\sem2lab10.dll
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\bin\Debug\net8.0\sem2lab10.pdb
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.AssemblyInfoInputs.cache
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.AssemblyInfo.cs
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.csproj.CoreCompileInputs.cache
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.sourcelink.json
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.dll
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\refint\sem2lab10.dll
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.pdb
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\sem2lab10.genruntimeconfig.cache
+D:\Users\pawel.wrona\RiderProjects\lab11\sem2lab10\obj\Debug\net8.0\ref\sem2lab10.dll
