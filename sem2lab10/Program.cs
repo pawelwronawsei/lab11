@@ -20,7 +20,9 @@
         // }
 
         // RunDemo1();
-        RunDemo2();
+        // RunDemo2();
+        // RunDemo3();
+        RunDemo4();
     }
 
     public static async Task Time()
@@ -115,10 +117,32 @@
                     break;
                 case "c":
                     tokenSrc.Cancel();
+                    tokenSrc = new CancellationTokenSource();
                     break;
                 case "n":
                     break;
             }
         }
+    }
+
+    public static void RunDemo3()
+    {
+        Console.WriteLine("Wpisz tekst");
+        
+        var lines = Console.ReadLine();
+        
+        File.WriteAllTextAsync(@"d:\demo.txt", lines).GetAwaiter().OnCompleted(() =>
+        {
+            Console.WriteLine("Plik zapisano");
+        });
+
+        Console.ReadLine();
+    }
+
+    public static void RunDemo4()
+    {
+        var lines = File.ReadAllText(@"d:\demo.txt");
+        var numbers = lines.Split("\t").Select(text => int.Parse(text)).ToArray();
+        Console.WriteLine(string.Join(",", numbers));
     }
 }
